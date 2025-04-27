@@ -22,4 +22,3 @@ Clone the repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/rovin-benny/Road-Detection.git
 cd Road-Detection
-pip install -r requirements.txt
